@@ -1,0 +1,5 @@
+"0","save.image(""12_nbaAnalysisData.RData"")"
+"0","rm(list = ls())"
+"0","print(ls())"
+"1","character(0)
+"

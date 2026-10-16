@@ -1,0 +1,6 @@
+"0","if (!requireNamespace(""readxl"", quietly = TRUE)) {"
+"0","  install.packages('readxl')"
+"0","}"
+"0","library(readxl)"
+"0","nba_data <- read_excel('00_regression_nba-1.xlsx')"
+"0","head(nba_data)"

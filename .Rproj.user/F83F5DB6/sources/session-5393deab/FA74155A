@@ -1,0 +1,26 @@
+{
+    "id": "FA74155A",
+    "path": "~/GitHub/DA4/01_matrixFunctions.R",
+    "project_path": "01_matrixFunctions.R",
+    "type": "r_source",
+    "hash": "1658188506",
+    "contents": "",
+    "dirty": false,
+    "created": 1792173024279.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "29,27",
+        "scrollLine": "8"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1792183533,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1792183533913,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,27 @@
+{
+    "id": "752FA402",
+    "path": "~/GitHub/DA4/11_nbaAnalysis_dataProcessing.Rmd",
+    "project_path": "11_nbaAnalysis_dataProcessing.Rmd",
+    "type": "r_markdown",
+    "hash": "1888895423",
+    "contents": "",
+    "dirty": false,
+    "created": 1792172993731.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "175,86",
+        "scrollLine": "174",
+        "last_setup_crc32": "5393deabbb338d19"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1792183694,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1792183694607,
+    "read_only": false,
+    "read_only_alternatives": []
+}

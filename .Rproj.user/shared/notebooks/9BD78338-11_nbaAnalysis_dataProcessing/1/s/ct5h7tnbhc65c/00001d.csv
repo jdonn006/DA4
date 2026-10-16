@@ -1,0 +1,3 @@
+"0","nba_data$height_in  <- nba_data$`player_height (cm)` / 2.54"
+"0","nba_data$weight_lbs <- nba_data$`player_weight (kg)` * 2.20462"
+"0","rm(colmean, x_matrix)"
